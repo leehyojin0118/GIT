@@ -3,3 +3,7 @@ print('Git Practice')
 # Auto login test
 
 print('hi git')
+
+
+
+print('hi git2')
