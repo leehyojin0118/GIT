@@ -2,8 +2,6 @@ print('Hello Git')
 print('Git Practice')
 # Auto login test
 
-print('hi git')
-
-
-
-print('hi git2')
+print("This is updated from GitHub Web!")
+print("This is updated from GitHub Web!")
+print("This is updated from GitHub Web!")
